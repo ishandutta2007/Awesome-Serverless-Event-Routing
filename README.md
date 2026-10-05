@@ -60,62 +60,62 @@ Below is a detailed comparison of top hosted serverless event routing, backgroun
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore production-grade open-source tools for building custom serverless event routers, webhook delivery gateways, notification routing systems, and background job queues. Sorted by GitHub Star Count (descending).
+Explore production-grade open-source tools for building custom serverless event routers, webhook delivery gateways, notification routing systems, and background job queues. Sorted by GitHub Stars_Count (descending).
 
 ### ⚡ Event Routing & Event Mesh
 
-- **[novuhq/novu](https://github.com/novuhq/novu)** [![GitHub Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
+- **[novuhq/novu](https://github.com/novuhq/novu)** [![GitHub_Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
   📡 **Open-source notification infrastructure & routing engine.** Unified API for email, SMS, push, and webhooks with visual workflow builder and multi-tenant management.
 
-- **[drasi-project/drasi](https://github.com/drasi-project/drasi)** [![GitHub Stars](https://img.shields.io/github/stars/drasi-project/drasi?style=social&color=white)](https://github.com/drasi-project/drasi/stargazers)  
+- **[drasi-project/drasi](https://github.com/drasi-project/drasi)** [![GitHub_Stars](https://img.shields.io/github/stars/drasi-project/drasi?style=social&color=white)](https://github.com/drasi-project/drasi/stargazers)  
   ⚡ **Microsoft's real-time continuous query & event detection system.** Evaluates data-in-motion without polling overhead and triggers automated reactions across PostgreSQL, Dataverse, and Event Grid.
 
-- **[iggy-rs/iggy](https://github.com/iggy-rs/iggy)** [![GitHub Stars](https://img.shields.io/github/stars/iggy-rs/iggy?style=social&color=white)](https://github.com/iggy-rs/iggy/stargazers)  
+- **[iggy-rs/iggy](https://github.com/iggy-rs/iggy)** [![GitHub_Stars](https://img.shields.io/github/stars/iggy-rs/iggy?style=social&color=white)](https://github.com/iggy-rs/iggy/stargazers)  
   🚀 **Ultra-low latency message streaming platform written in Rust.** Ultra-fast Kafka alternative designed for high-throughput serverless event streaming and routing.
 
-- **[zeiss/typhoon](https://github.com/zeiss/typhoon)** [![GitHub Stars](https://img.shields.io/github/stars/zeiss/typhoon?style=social&color=white)](https://github.com/zeiss/typhoon/stargazers)  
+- **[zeiss/typhoon](https://github.com/zeiss/typhoon)** [![GitHub_Stars](https://img.shields.io/github/stars/zeiss/typhoon?style=social&color=white)](https://github.com/zeiss/typhoon/stargazers)  
   🌀 **Cloud-native AWS EventBridge alternative built on NATS and Knative.** Features declarative event routing, replay capabilities, transformations, and Kubernetes native scaling.
 
-- **[vanus-labs/vanus-connect](https://github.com/vanus-labs/vanus-connect)** [![GitHub Stars](https://img.shields.io/github/stars/vanus-labs/vanus-connect?style=social&color=white)](https://github.com/vanus-labs/vanus-connect/stargazers)  
+- **[vanus-labs/vanus-connect](https://github.com/vanus-labs/vanus-connect)** [![GitHub_Stars](https://img.shields.io/github/stars/vanus-labs/vanus-connect?style=social&color=white)](https://github.com/vanus-labs/vanus-connect/stargazers)  
   🔌 **Event streaming & routing connectors ecosystem.** Connects SaaS tools, databases, and message queues into standard CloudEvents flows.
 
-- **[ce-rust/cerk](https://github.com/ce-rust/cerk)** [![GitHub Stars](https://img.shields.io/github/stars/ce-rust/cerk?style=social&color=white)](https://github.com/ce-rust/cerk/stargazers)  
+- **[ce-rust/cerk](https://github.com/ce-rust/cerk)** [![GitHub_Stars](https://img.shields.io/github/stars/ce-rust/cerk?style=social&color=white)](https://github.com/ce-rust/cerk/stargazers)  
   ⚙️ **Microkernel CloudEvents router in Rust.** Modular architecture for routing CloudEvents across various transport protocols, brokers, and enterprise endpoints.
 
-- **[hyperpolymath/hybrid-automation-router](https://github.com/hyperpolymath/hybrid-automation-router)** [![GitHub Stars](https://img.shields.io/github/stars/hyperpolymath/hybrid-automation-router?style=social&color=white)](https://github.com/hyperpolymath/hybrid-automation-router/stargazers)  
+- **[hyperpolymath/hybrid-automation-router](https://github.com/hyperpolymath/hybrid-automation-router)** [![GitHub_Stars](https://img.shields.io/github/stars/hyperpolymath/hybrid-automation-router?style=social&color=white)](https://github.com/hyperpolymath/hybrid-automation-router/stargazers)  
   🔀 **Intelligent event routing engine for hybrid automation.** Supports 7 routing strategies (RoundRobin, LeastLoaded, Failover, TagMatch) for Ansible, Terraform, and Puppet target environments.
 
 ---
 
 ### 🪝 Webhook Infrastructure
 
-- **[hookdeck/outpost](https://github.com/hookdeck/outpost)** [![GitHub Stars](https://img.shields.io/github/stars/hookdeck/outpost?style=social&color=white)](https://github.com/hookdeck/outpost/stargazers)  
+- **[hookdeck/outpost](https://github.com/hookdeck/outpost)** [![GitHub_Stars](https://img.shields.io/github/stars/hookdeck/outpost?style=social&color=white)](https://github.com/hookdeck/outpost/stargazers)  
   🛡️ **Outbound webhooks & event destination infrastructure.** Enables event fanout, multi-tenant subscription routing, OpenTelemetry instrumentation, and reliable at-least-once delivery.
 
-- **[hookdash/hookdash](https://github.com/hookdash/hookdash)** [![GitHub Stars](https://img.shields.io/github/stars/hookdash/hookdash?style=social&color=white)](https://github.com/hookdash/hookdash/stargazers)  
+- **[hookdash/hookdash](https://github.com/hookdash/hookdash)** [![GitHub_Stars](https://img.shields.io/github/stars/hookdash/hookdash?style=social&color=white)](https://github.com/hookdash/hookdash/stargazers)  
   🎯 **Zero-config self-hosted webhook gateway powered by SQLite.** Signature verification for Stripe/GitHub/Shopify, circuit breakers, dead-letter queues, and real-time dashboard.
 
-- **[boringContributor/aws-serverless-webhooks](https://github.com/boringContributor/aws-serverless-webhooks)** [![GitHub Stars](https://img.shields.io/github/stars/boringContributor/aws-serverless-webhooks?style=social&color=white)](https://github.com/boringContributor/aws-serverless-webhooks/stargazers)  
+- **[boringContributor/aws-serverless-webhooks](https://github.com/boringContributor/aws-serverless-webhooks)** [![GitHub_Stars](https://img.shields.io/github/stars/boringContributor/aws-serverless-webhooks?style=social&color=white)](https://github.com/boringContributor/aws-serverless-webhooks/stargazers)  
   ☁️ **Self-hosted serverless webhook gateway on AWS CDK.** Uses Durable Functions, API Gateway, and EventBridge for resilient webhook dispatching.
 
-- **[xtandard/webhooks](https://github.com/xtandard/webhooks)** [![GitHub Stars](https://img.shields.io/github/stars/xtandard/webhooks?style=social&color=white)](https://github.com/xtandard/webhooks/stargazers)  
+- **[xtandard/webhooks](https://github.com/xtandard/webhooks)** [![GitHub_Stars](https://img.shields.io/github/stars/xtandard/webhooks?style=social&color=white)](https://github.com/xtandard/webhooks/stargazers)  
   📚 **Embeddable webhook delivery library based on Standard Webhooks.** Two-plane architecture with lease-based recovery for zero-service-overhead webhook routing.
 
-- **[summerwind/cloudevents-webhook-gateway](https://github.com/summerwind/cloudevents-webhook-gateway)** [![GitHub Stars](https://img.shields.io/github/stars/summerwind/cloudevents-webhook-gateway?style=social&color=white)](https://github.com/summerwind/cloudevents-webhook-gateway/stargazers)  
+- **[summerwind/cloudevents-webhook-gateway](https://github.com/summerwind/cloudevents-webhook-gateway)** [![GitHub_Stars](https://img.shields.io/github/stars/summerwind/cloudevents-webhook-gateway?style=social&color=white)](https://github.com/summerwind/cloudevents-webhook-gateway/stargazers)  
   🔗 **HTTP Webhook to CloudEvents gateway.** Converts incoming HTTP webhooks into CloudEvents specification format for standardized serverless ingestion.
 
 ---
 
 ### 🔔 Notification Infrastructure
 
-- **[novuhq/novu](https://github.com/novuhq/novu)** [![GitHub Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
+- **[novuhq/novu](https://github.com/novuhq/novu)** [![GitHub_Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
   📣 **Unified notification orchestrator.** Self-hosted open-source alternative to Knock and Courier with in-app inbox components, template management, and routing logic.
 
 ---
 
 ### 🔄 Job Queues & Workflow Engines
 
-- **[benrobo/queueflow](https://github.com/benrobo/queueflow)** [![GitHub Stars](https://img.shields.io/github/stars/benrobo/queueflow?style=social&color=white)](https://github.com/benrobo/queueflow/stargazers)  
+- **[benrobo/queueflow](https://github.com/benrobo/queueflow)** [![GitHub_Stars](https://img.shields.io/github/stars/benrobo/queueflow?style=social&color=white)](https://github.com/benrobo/queueflow/stargazers)  
   ⏱️ **Minimal Redis background task queue for TypeScript.** Automatic worker initialization, cron scheduling, and exponential backoff built on BullMQ.
 
 - **[alialnaghmoush/flowli](https://jsr.io/@alialnaghmoush/flowli)** [![JSR](https://img.shields.io/badge/JSR-flowli-blue?style=flat-square)](https://jsr.io/@alialnaghmoush/flowli)  
@@ -125,11 +125,11 @@ Explore production-grade open-source tools for building custom serverless event 
 
 ### 📦 Additional Open-Source Libraries & SDKs
 
-- **[cloudevents/sdk-go](https://github.com/cloudevents/sdk-go)** [![GitHub Stars](https://img.shields.io/github/stars/cloudevents/sdk-go?style=social&color=white)](https://github.com/cloudevents/sdk-go/stargazers) — Official Go SDK for building CloudEvents compliant event routers.
-- **[Accenture/reactive-interaction-gateway](https://github.com/Accenture/reactive-interaction-gateway)** [![GitHub Stars](https://img.shields.io/github/stars/Accenture/reactive-interaction-gateway?style=social&color=white)](https://github.com/Accenture/reactive-interaction-gateway/stargazers) — Elixir-based low-latency event gateway for microservices.
-- **[silverton-io/buz](https://github.com/silverton-io/buz)** [![GitHub Stars](https://img.shields.io/github/stars/silverton-io/buz?style=social&color=white)](https://github.com/silverton-io/buz/stargazers) — Serverless multi-protocol event collector and router in Go.
-- **[myntra/cortex](https://github.com/myntra/cortex)** [![GitHub Stars](https://img.shields.io/github/stars/myntra/cortex?style=social&color=white)](https://github.com/myntra/cortex/stargazers) — Fault-tolerant real-time event and alert correlation engine.
-- **[sasha-tkachev/venty](https://github.com/sasha-tkachev/venty)** [![GitHub Stars](https://img.shields.io/github/stars/sasha-tkachev/venty?style=social&color=white)](https://github.com/sasha-tkachev/venty/stargazers) — Event-driven routing utilities built around the CloudEvents specification.
+- **[cloudevents/sdk-go](https://github.com/cloudevents/sdk-go)** [![GitHub_Stars](https://img.shields.io/github/stars/cloudevents/sdk-go?style=social&color=white)](https://github.com/cloudevents/sdk-go/stargazers) — Official Go SDK for building CloudEvents compliant event routers.
+- **[Accenture/reactive-interaction-gateway](https://github.com/Accenture/reactive-interaction-gateway)** [![GitHub_Stars](https://img.shields.io/github/stars/Accenture/reactive-interaction-gateway?style=social&color=white)](https://github.com/Accenture/reactive-interaction-gateway/stargazers) — Elixir-based low-latency event gateway for microservices.
+- **[silverton-io/buz](https://github.com/silverton-io/buz)** [![GitHub_Stars](https://img.shields.io/github/stars/silverton-io/buz?style=social&color=white)](https://github.com/silverton-io/buz/stargazers) — Serverless multi-protocol event collector and router in Go.
+- **[myntra/cortex](https://github.com/myntra/cortex)** [![GitHub_Stars](https://img.shields.io/github/stars/myntra/cortex?style=social&color=white)](https://github.com/myntra/cortex/stargazers) — Fault-tolerant real-time event and alert correlation engine.
+- **[sasha-tkachev/venty](https://github.com/sasha-tkachev/venty)** [![GitHub_Stars](https://img.shields.io/github/stars/sasha-tkachev/venty?style=social&color=white)](https://github.com/sasha-tkachev/venty/stargazers) — Event-driven routing utilities built around the CloudEvents specification.
 
 ---
 
